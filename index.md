@@ -1,5 +1,5 @@
 ---
-title: The Life and Times of a Regular Guy
+title: Dev Notes
 ---
 ## Greetings
 
